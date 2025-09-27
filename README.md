@@ -154,15 +154,6 @@ telegram_bot_chat_id = "chat_id"
 
 在切换单价差异较大的币种，如 `BTC` 切换到 `ETH` 是请务必注意你设定的 `basePrice` 是否合理。
 
-## 捐赠
-
-如果你认同本项目或对你有帮助，不妨考虑捐赠以支持我。
-
-| METHOD | ADDRESS                                    |
-| ------ | ------------------------------------------ |
-| BTC    | bc1qa6m9yqe26k223zwak4cmnyv9axq0dxg6thdcuh |
-| ETH    | 0x42f8c423d71dD30b42DA09F6FB8683b6a5a4A524 |
-| DOGE   | A2X5K6X4NgYdRvoLkqqp4mptDtcJ88JU1r         |
 
 ## Sponsors
 
@@ -170,4 +161,4 @@ telegram_bot_chat_id = "chat_id"
 
 ## LICENSE
 
-GNU GPL 3.0 © [2nthony](https://github.com/2nthony)
+GNU GPL 3.0 © [simpleYuan](https://github.com/simpleYuan)
